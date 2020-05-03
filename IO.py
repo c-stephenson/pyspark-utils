@@ -9,7 +9,7 @@ dataframe.write methods for working with spark data. However the IO class is int
 and writing regular files to cloud storage e.g. as reading configuration files and writing log files.
 ------------------------------------------------------------------------------------------------------------------
 Author: Chris Stephenson
-Email: managedservice@sagacitysolutions.co.uk
+Email: c_stephenson_nz@yahoo.co.nz
 ------------------------------------------------------------------------------------------------------------------
 """
 # Spark imports
