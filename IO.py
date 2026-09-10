@@ -1,5 +1,5 @@
 """
-Sagacity Solutions - sagacious.spark.IO
+sagacious.spark.IO
 
 Manages reading and writng to cloud storage Azure Blob Storage (ABS) and AWS S3 (S3) and Databricks File
 System (DBFS)
