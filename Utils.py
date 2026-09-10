@@ -1,10 +1,9 @@
 """
-Sagacity Solutions - sagacious.spark.Utils
 
-A set of Spark utility modules for Sagacity Solutions developers
+A set of Spark utility modules 
 ------------------------------------------------------------------------------------------------------------------
 Author: Chris Stephenson
-Email: managedservice@sagacitysolutions.co.uk
+Email: c_stephenson_nz@yahoo.co.nz
 ------------------------------------------------------------------------------------------------------------------
 """
 # Spark imports
